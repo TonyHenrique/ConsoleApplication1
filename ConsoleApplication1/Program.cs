@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             //v1
-            Console.WriteLine("Normal.");
+            Console.WriteLine("Normal..");
             Console.Read();
         }
     }
