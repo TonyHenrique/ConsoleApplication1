@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             //v1
             //async
-            Console.WriteLine("ASYNC 1");
+            Console.WriteLine("Normal.. ASYNC 1");
             Console.Read();
         }
     }
