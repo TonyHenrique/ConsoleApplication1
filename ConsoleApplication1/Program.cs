@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             //v1
             //async
+            Console.WriteLine("ASYNC");
+            Console.Read();
         }
     }
 }
